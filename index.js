@@ -1,11 +1,17 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+  if ('the ride is less than or equal to 400 feet'){
+    return 'This one is on me!'
+  }
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
+  if ('the city is NYC'){
+    return 'Ok, sounds good.'
+  }
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
+  if ('the tip is generous'){
+    return 'Thank you so much.'
+  }
 }
